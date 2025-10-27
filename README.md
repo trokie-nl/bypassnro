@@ -3,7 +3,7 @@ Bypass NRO
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L trokie-nl/bypassnro -o skip.cmd
+curl -L trokie-nl.com/bypassnro -o skip.cmd
 skip.cmd
 ```
 
